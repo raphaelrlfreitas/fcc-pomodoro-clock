@@ -1,0 +1,11 @@
+.time-controller > span {
+  display: inline-block;
+  font-weight: 900;
+  cursor: pointer;
+  border: 2px solid white;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+  padding-top: 2px;
+}
+
