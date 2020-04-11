@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![Run on Repl.it](https://repl.it/badge/github/raphaelrlfreitas/fcc-pomodoro-clock)](https://repl.it/github/raphaelrlfreitas/fcc-pomodoro-clock)
+
 ## Available Scripts
 
 In the project directory, you can run:
